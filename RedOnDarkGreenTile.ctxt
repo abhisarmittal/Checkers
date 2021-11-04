@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RedOnDarkGreenTile
+comment1.params=row\ col\ isKing
+comment1.target=RedOnDarkGreenTile(int,\ int,\ boolean)
+comment2.params=isKing
+comment2.target=java.lang.String\ makeURL(boolean)
+numComments=3
